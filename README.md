@@ -23,3 +23,12 @@ You can install the necessary libraries using pip:
 
 ```bash
 pip install selenium beautifulsoup4
+```
+
+### **Customization Notes**
+Customization Notes
+
+- Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
+- You can add or modify the example scripts listed under **Example Scripts** to better reflect what’s available in your repository.
+- Consider including more detailed instructions or examples specific to the functionality of your scraping scripts.
+
